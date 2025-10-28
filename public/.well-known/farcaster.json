@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "Farcaster Guilds & Games",
-    "homeUrl": "https://farcaster-guilds-games.com",
+    "homeUrl": "https://app-573d4813-dc9m.vercel.app",
     "iconUrl": "https://farcaster-guilds-games.com/icon.png",
     "splashImageUrl": "https://farcaster-guilds-games.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://farcaster-guilds-games.com/api/farcaster/webhook",
+    "webhookUrl": "https://app-573d4813-dc9m.vercel.app/api/webhook",
     "subtitle": "Play, compete, and earn on Base",
     "description": "Competitive and collaborative mini-games powered by your Farcaster social graph on Base. Join guilds, complete challenges, and earn onchain rewards.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://farcaster-guilds-games.com/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["gaming", "social", "base", "guilds", "competitive"],
+    "tags": [
+      "gaming",
+      "social",
+      "base",
+      "guilds",
+      "competitive"
+    ],
     "heroImageUrl": "https://farcaster-guilds-games.com/hero.png",
     "tagline": "Competitive and collaborative mini-games powered by your Farcaster social graph on Base.",
     "ogTitle": "Farcaster Guilds & Games",
