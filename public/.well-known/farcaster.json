@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItZ3VpbGRzLWdhbWVzLmNvbSJ9",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcaster Guilds & Games",
+    "homeUrl": "https://farcaster-guilds-games.com",
+    "iconUrl": "https://farcaster-guilds-games.com/icon.png",
+    "splashImageUrl": "https://farcaster-guilds-games.com/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://farcaster-guilds-games.com/api/farcaster/webhook",
+    "subtitle": "Play, compete, and earn on Base",
+    "description": "Competitive and collaborative mini-games powered by your Farcaster social graph on Base. Join guilds, complete challenges, and earn onchain rewards.",
+    "screenshotUrls": [
+      "https://farcaster-guilds-games.com/screenshot1.png",
+      "https://farcaster-guilds-games.com/screenshot2.png",
+      "https://farcaster-guilds-games.com/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["gaming", "social", "base", "guilds", "competitive"],
+    "heroImageUrl": "https://farcaster-guilds-games.com/hero.png",
+    "tagline": "Competitive and collaborative mini-games powered by your Farcaster social graph on Base.",
+    "ogTitle": "Farcaster Guilds & Games",
+    "ogDescription": "Play competitive mini-games with your Farcaster friends on Base. Join guilds, complete challenges, and earn gasless onchain rewards.",
+    "ogImageUrl": "https://farcaster-guilds-games.com/og-image.png",
+    "noindex": false
+  }
+}
